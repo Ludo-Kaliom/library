@@ -1,0 +1,14 @@
+Comptes de démonstration
+
+Utilisateur
+Login : User@user.com
+Mot de passe : User
+
+
+Administration
+Login : admin@admin.com
+Mot de passe : admin
+
+
+
+
